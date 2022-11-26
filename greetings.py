@@ -5,3 +5,4 @@ place = input("where are you from:" )
 print(f"Hi {name}, you age is {age}, you are welcome")
 
 
+the file
